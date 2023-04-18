@@ -1,0 +1,35 @@
+h1{
+    text-align: center ;
+    position: relative;
+    top: 150px;
+}
+.container{
+             display: flex; 
+             height: 500px;
+             justify-content: center;
+             align-items: center;
+}
+button{
+    margin: 20px;
+    height: 80px;
+    width: 150px;
+}
+.btn1{
+    background-color: blue;
+}
+.btn2{
+    background-color: black;
+    color: white;
+    border-color: white;
+}
+.btn3{
+    background-color: green;
+}
+.btn4{
+    background-color: red;
+}
+.btn5{
+    position: relative;
+    top: -200px;
+    left: 650px;
+}
